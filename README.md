@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there /ᐠ . ̫ .マ </h2>
 
-- 💻 Cyber Security enthusiast. 
+- 💻 Security Researcher. 
 - 🌱 I’m currently learning **Ethical Hacking** and **Basic Programming**.
 - 🔒 CTF player.
 - 👩🏻‍💻 All of my projects are available at https://github.com/sxfwyz
