@@ -1,7 +1,6 @@
 <h2 align="center"> Hi there /ᐠ . ̫ .マ </h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sxfwyz&theme=highcontrast&show_icons=true&title_color=4f4f4f&icon_color=ffffff)](https://github.com/sxfwyz/github-readme-stats" width="450">
-
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=sxfwyz&show_icons=true&theme=dracula" width="450"> 
 
 - 💻 Security Researcher.
 - 🌱 I’m currently learning **Ethical Hacking** and **Basic Programming**.
